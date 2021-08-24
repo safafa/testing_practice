@@ -43,12 +43,6 @@ Feel free to check the [issues page](https://github.com/safafa/testing_practice/
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
--
-
 ## 📝 License
 
 This project is [Microverse](https://www.microverse.org/) licensed.
