@@ -1,5 +1,5 @@
 const { test, expect } = require('@jest/globals');
-const stringLength = require('./task1');
+const stringLength = require('../tasks/task1');
 
 test('check safa length', () => {
     expect(stringLength('safa')).toBe(4);
