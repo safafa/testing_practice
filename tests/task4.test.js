@@ -8,3 +8,7 @@ test('return capitalized saFa', () => {
 test('give empty sting', () => {
     expect(() => capitalize('')).toThrow();
 });
+
+test('Only accept a string', () => {
+    expect(() => capitalize(123)).toThrow();
+});
